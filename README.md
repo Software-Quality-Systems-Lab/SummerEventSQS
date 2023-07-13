@@ -1,2 +1,1 @@
-# SummerEventSQS
-Summer Event SQS
+# Summer Event SQS
